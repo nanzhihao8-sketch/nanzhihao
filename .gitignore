@@ -1,0 +1,16 @@
+# 个人隐私文件 —— 绝对不要提交
+.env
+persona.txt
+persona_*.txt
+chat_history.json
+bot.log
+break_state.json
+control.json
+_media/
+_emoji_tmp/
+wechatauto_logs/
+__pycache__/
+*.pyc
+
+# 工作模式生成的文件
+_works/
